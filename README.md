@@ -14,6 +14,6 @@ A dictionary app is a software application that allows users to search for the m
 ![image](https://user-images.githubusercontent.com/108206047/224352277-c23849fe-d6f7-4711-9a02-c8470dd60d4f.png)
 
 ## Languages Used:
-# JavaScript
-# HTML
-# CSS
+JavaScript
+HTML
+CSS
